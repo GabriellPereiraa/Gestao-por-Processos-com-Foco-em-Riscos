@@ -60,8 +60,8 @@ include('layout/header.php');
 
             <div class="text-center">
                 <p class="TituloFigura"><strong>Imagem 1:</strong> Ilustração do conceito de processo.</p>
-                <a href="imagens/Imagem01.jpg" data-toggle="lightbox" data-footer="Ilustração do conceito de processo.">
-                    <img class="img-fluid" src="imagens/Imagem01.jpg" alt="Alt_da_Imagem">
+                <a href="imagens/Imagem01.png" data-toggle="lightbox" data-footer="Ilustração do conceito de processo.">
+                    <img class="img-fluid" src="imagens/Imagem01.png" alt="Alt_da_Imagem">
                 </a>
             </div>
 
