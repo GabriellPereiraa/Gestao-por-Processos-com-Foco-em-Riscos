@@ -56,7 +56,7 @@ include('layout/header.php');
         <br>
         <div class="center">
             <div class="btn-group" id="btn-group">
-                <a href="Topico04.8.php" class="btn btn-outline-success btn-sm ">Página Anterior</a>
+                <a href="Topico02.2.php" class="btn btn-outline-success btn-sm ">Página Anterior</a>
                 <a href="#" class="btn btn-outline-success btn-sm">Avaliação</a>
             </div>
         </div>
