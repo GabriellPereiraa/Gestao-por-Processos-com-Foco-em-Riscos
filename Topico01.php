@@ -18,11 +18,11 @@ include('layout/header.php');
         <?php include('layout/nav.php') ?>
         <!-- CONTEUDO INICIO -->
         <div class="main-content container-fluid">
-            <h2 class="font-bold Azul">
+            <h2 class="font-bold Cinza">
                 <i class="fas fa-folder"></i> Tópico 1 – Gestão por Processos: Contextualização
             </h2>
 
-            <hr class="hr4">
+            <hr class="hr4Cinza">
 
             <p class="Texto"><strong>Objetivo:</strong>  Apresentar por meio de um exemplo do cotidiano o link com a gestão de processos e evidenciar os principais conceitos que são utilizados na gestão de processos.</p>
             
@@ -105,7 +105,7 @@ include('layout/header.php');
             <section id="Macroprocessos">
                 <div class="accordion" id="accordionExample">
                     <div class="card">
-                        <div class="card-header" id="headingOne">
+                        <div class="card-item" id="headingOne">
                             <h2 class="mb-0">
                                 <button class="btn btn-success btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse1" aria-expanded="false" aria-controls="collapse1">
                                     <h3>Macroprocessos</h3>
@@ -141,7 +141,7 @@ include('layout/header.php');
             <section id="Processos">
                 <div class="accordion" id="accordionExample">
                     <div class="card">
-                        <div class="card-header" id="headingOne">
+                        <div class="card-item" id="headingOne">
                             <h2 class="mb-0">
                                 <button class="btn btn-success btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse2" aria-expanded="false" aria-controls="collapse2">
                                     <h3>Processos</h3>
@@ -162,7 +162,7 @@ include('layout/header.php');
             <section id="Subprocessos">
                 <div class="accordion" id="accordionExample">
                     <div class="card">
-                        <div class="card-header" id="headingOne">
+                        <div class="card-item" id="headingOne">
                             <h2 class="mb-0">
                                 <button class="btn btn-success btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse3" aria-expanded="false" aria-controls="collapse3">
                                     <h3>Subprocessos</h3>

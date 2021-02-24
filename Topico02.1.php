@@ -18,11 +18,11 @@ include('layout/header.php');
         <?php include('layout/nav.php') ?>
         <!-- CONTEUDO INICIO -->
         <div class="main-content container-fluid">
-            <h2 class="font-bold Azul">
+            <h2 class="font-bold Cinza">
                 <i class="fas fa-folder"></i> Tópico 2 – Gestão de Processos
             </h2>
 
-            <hr class="hr4">
+            <hr class="hr4Cinza">
 
             <p class="Texto"><strong>Objetivo:</strong>  Apresentar a metodologia para manter e melhorar processos e a importância do gerenciamento de processos como ferramenta para o alcance da melhoria contínua.</p>
             
@@ -98,23 +98,23 @@ include('layout/header.php');
             </p>
 
             <p class="Texto">
-            <i class="far fa-dot-circle" style="color:#4885AE"></i><strong>Relevante:</strong> trata-se da importância do indicador;
+            <i class="fas fa-arrow-right" style="color:#4885AE"></i><strong> Relevante:</strong> trata-se da importância do indicador;
             </p>
             <p class="Texto">
-            <i class="far fa-dot-circle" style="color:#4885AE"></i><strong>Confiável:</strong> refere-se à qualidade do levantamento dos dados usados no seu cálculo;
+            <i class="fas fa-arrow-right" style="color:#4885AE"></i><strong> Confiável:</strong> refere-se à qualidade do levantamento dos dados usados no seu cálculo;
             </p>
             <p class="Texto">
-            <i class="far fa-dot-circle" style="color:#4885AE"></i><strong>Abrangente:</strong> amplitude da representatividade do objetivo;
+            <i class="fas fa-arrow-right" style="color:#4885AE"></i><strong> Abrangente:</strong> amplitude da representatividade do objetivo;
             </p>
 
             <p class="Texto">
-            <i class="far fa-dot-circle" style="color:#4885AE"></i><strong>Compreensível:</strong> transparência na metodologia de construção do indicador;
+            <i class="fas fa-arrow-right" style="color:#4885AE"></i><strong> Compreensível:</strong> transparência na metodologia de construção do indicador;
             </p>
             <p class="Texto">
-            <i class="far fa-dot-circle" style="color:#4885AE"></i><strong>Disponível:</strong> facilidade de acesso para coleta, estando disponível a tempo;
+            <i class="fas fa-arrow-right" style="color:#4885AE"></i><strong> Disponível:</strong> facilidade de acesso para coleta, estando disponível a tempo;
             </p>
             <p class="Texto">
-            <i class="far fa-dot-circle" style="color:#4885AE"></i><strong>Rastreável:</strong> facilidade de identificação da origem dos dados, seu registro e manutenção.
+            <i class="fas fa-arrow-right" style="color:#4885AE"></i><strong> Rastreável:</strong> facilidade de identificação da origem dos dados, seu registro e manutenção.
             </p>
 
             <hr>
