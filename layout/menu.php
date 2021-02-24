@@ -4,9 +4,11 @@
             <div class="sidebar-wrapper active ps ps--active-y">
                 <div class="m-4">
                     <a href="index.php">
-                        <img class="img-fluid" src="http://ava.egp.ce.gov.br/2018/desv/logo/egp.png" alt="Logo EGPCE" srcset="">
+                        <img class="img-fluid" src="https://atilasilvalima.a2hosted.com/projects/EGPCE/Cedis/cdn/imagens/egpce.png" alt="Logo EGPCE" srcset="">
                     </a>
                 </div>
+                <br>
+
                 <div class="sidebar-menu ">
                     <ul class="menu">
                         <!--  <li class="sidebar-item">
@@ -24,13 +26,13 @@
                         <li class="sidebar-item">
                             <a href="Topico01.php" class="sidebar-link">
                                 <i data-feather="home" width="20"></i>
-                                <span>Tópico 1 – Gestão por Processos: Contextualização</span>
+                                <span>1 - Gestão por Processos</span>
                             </a>
                         </li>
                         <li class="sidebar-item has-sub">
                             <a href="" class='sidebar-link'>
                                 <i data-feather="home" width="20"></i>
-                                <span>Tópico 2 – Gestão de Processos</span>
+                                <span>2 - Gestão de Processos</span>
                             </a>
                             <ul class="submenu">
                                 <li class="sidebar-item">
