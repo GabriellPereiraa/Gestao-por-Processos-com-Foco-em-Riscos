@@ -18,11 +18,9 @@ include('layout/header.php');
         <?php include('layout/nav.php') ?>
         <!-- CONTEUDO INICIO -->
         <div class="main-content container-fluid">
-            <h2 class="font-bold Cinza">
-                <i class="fas fa-folder"></i> Tópico 2 – Gestão de Processos
+            <h2 class="font-bold LaranjaEstado">
+                <i class="fas fa-folder"></i> 2 – Gestão de Processos
             </h2>
-
-            <hr class="hr4Cinza">
 
             <p class="Texto"><strong>Objetivo:</strong>  Apresentar a metodologia para manter e melhorar processos e a importância do gerenciamento de processos como ferramenta para o alcance da melhoria contínua.</p>
             

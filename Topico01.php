@@ -18,11 +18,10 @@ include('layout/header.php');
         <?php include('layout/nav.php') ?>
         <!-- CONTEUDO INICIO -->
         <div class="main-content container-fluid">
-            <h2 class="font-bold Cinza">
-                <i class="fas fa-folder"></i> Tópico 1 – Gestão por Processos: Contextualização
+            <h2 class="font-bold LaranjaEstado">
+                <i class="fas fa-folder"></i> 1 – Gestão por Processos: Contextualização
             </h2>
 
-            <hr class="hr4Cinza">
 
             <p class="Texto"><strong>Objetivo:</strong>  Apresentar por meio de um exemplo do cotidiano o link com a gestão de processos e evidenciar os principais conceitos que são utilizados na gestão de processos.</p>
             

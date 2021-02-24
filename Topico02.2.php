@@ -18,7 +18,7 @@ include('layout/header.php');
         <?php include('layout/nav.php') ?>
         <!-- CONTEUDO INICIO -->
         <div class="main-content container-fluid">
-            <h3>2. Gerenciamento para melhorar processos</h3>
+            <h2 class="font-bold">2. Gerenciamento para melhorar processos</h2>
             <hr class="hrLaranja">
             <p class="Texto">
                 A melhoria contínua é algo inerente à gestão de processos. Nesse contexto, as organizações devem identificar quais processos precisam ser melhorados, buscando obter um salto de qualidade que mude o patamar dos resultados até então obtidos

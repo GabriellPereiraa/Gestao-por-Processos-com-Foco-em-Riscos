@@ -45,12 +45,11 @@ include('layout/header.php');
                     </li>
                     <br>
                     <li>
-                        <i class="fa fa-book fa-lg CorLaranja" aria-hidden="true"></i> BRASIL. Ministério do Planejamento, Orçamento e Gestão. <strong> Padrão de Trabalho de Modelagem de Processos: Escritório de Processos.</strong> 2007. Disponível em: <a href="http://editor.planejamento.gov.br/secretarias/upload/Arquivos/seges/081003_seges_arq_padrao.pdf/view" target="_blank">http://editor.planejamento.gov.br/secretarias/upload/Arquivos/seges/081003_seges_arq_padrao.pdf</a>. Acessado em: 07 de jun. de 2020.
+                        <i class="fa fa-book fa-lg CorLaranja" aria-hidden="true"></i> BRASIL. Ministério do Planejamento, Orçamento e Gestão. <strong> Padrão de Trabalho de Modelagem de Processos: Escritório de Processos.</strong> 2007. Disponível em: <a href="http://editor.planejamento.gov.br/secretarias/upload/Arquivos/seges/081003_seges_arq_padrao.pdf/view" target="_blank">http://editor .planejamento.gov.br /secretarias/upload /Arquivos/seges081003_ seges_arq_padrao.pdf</a>. Acessado em: 07 de jun. de 2020.
                     </li>
                     <br>
                 </ul>
             </div>
-
         </div>
 
         <br>
